@@ -1,0 +1,13 @@
+# Données sources et fichiers générés par le notebook
+*.csv
+*.pkl
+app.py
+chatbot_class.py
+
+# Secrets : ne jamais publier son token ngrok
+.env
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
